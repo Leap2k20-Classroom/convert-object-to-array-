@@ -10,5 +10,5 @@ Convert функцийг ажилууллахад тухайн object хувьс
 index.js дотор байгаа
 
 Hint:
-* Object.keys function ийг судлах 
+* Object.keys function ашиглах
 Зөвхөн **convert** гэсэн функцыг засахыг анхаарна уу!
